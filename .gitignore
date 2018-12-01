@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+ExampleCommandsCMD
+python_virtual_environment
+db.sqlite3
+/static
+.DS_Store
